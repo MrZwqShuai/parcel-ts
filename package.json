@@ -1,0 +1,20 @@
+{
+  "name": "year",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.js -d build/output"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.4.1"
+  },
+  "dependencies": {
+    "node-sass": "^4.7.2",
+    "typescript": "^2.6.2"
+  }
+}

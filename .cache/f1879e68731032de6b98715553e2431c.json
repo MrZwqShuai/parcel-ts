@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./index.scss","loc":{"line":1,"column":7}}],"generated":{"js":"\"use strict\";\n\nrequire(\"./index.scss\");\n\ndocument.write('122');"},"hash":"5f1ede34ac38ccca9c10e6920ca6b461"}
